@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fazaljalil
+- 👋 Hi, I’m Fazaljalil
 - 👀 I’m interested to learn Coding
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on ...
